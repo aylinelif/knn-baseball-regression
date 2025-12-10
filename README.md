@@ -74,9 +74,8 @@ Preprocessing ensures that KNN — a distance-based model — works effectively.
 
 To understand how the number of neighbors (*k*) affects model accuracy, KNN was trained with **k = 1 to 29**.
 For each value, the model predicted on the **test set**, and **RMSE** was calculated.
+<img width="809" height="417" alt="Ekran Resmi 2025-12-10 23 47 39" src="https://github.com/user-attachments/assets/138202bd-44ee-40c8-a3c1-b82bc2c3ca26" />
 
-
-![Uploading Ekran Resmi 2025-12-10 23.47.39.png…]()
 
 ### **Insights**
 
